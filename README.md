@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<h4 align="center">Amongst bytes and matrices, my heart takes its cue,/n
-  In the poetry of models, I find truths that are true.</h4>
+<h4 align="center">Amongst bytes and matrices, my heart takes its cue,<br>
+In the poetry of models, I find truths that are true.</h4>
+
 
 - 🔭 I’m currently working on **Diabetes Prediction**
 
