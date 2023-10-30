@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 
-- 🔭 I’m currently working on **Diabetes Prediction**
-
 - 👯 I’m looking to collaborate on **any Machine learning projects**
 
 - 📫 How to reach me **iamrakib097@gmail.com**
